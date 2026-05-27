@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenconnect",
+        "uuid": 15179030,
+        "checksum": "yu8dxj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
